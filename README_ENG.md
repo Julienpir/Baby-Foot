@@ -1,4 +1,4 @@
-#Baby-Foot
+# Baby-Foot
 
 ## Objective :
 Within the framework of the IT project, we chose the table soccer project. We didn't know exactly how to approach the code at the beginning, but this subject appealed to us because we wanted to create a program that we would want to use even after the note was rendered and the project was finished. Moreover, this choice of project allowed us to focus only on the problems related to the code, since we already knew the rules of the game. So we were able to make the approximations we wanted and approach this problem with only the challenges of the code in mind and the comfort of the game once the code was finalized.
